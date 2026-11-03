@@ -1,0 +1,4 @@
+node_modules/
+site/storage/*
+!site/storage/.gitignore
+.DS_Store
